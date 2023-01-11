@@ -1,4 +1,4 @@
-# Setting up Ubuntu VM
+# How to set up a Ubuntu VM with VirtualBox
 
 This guide will outline how to set up an Ubuntu virtual machine (VM) on [VirtualBox](https://www.virtualbox.org/)
 
