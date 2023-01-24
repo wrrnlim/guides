@@ -11,6 +11,16 @@ When asked how you would like to authenticate, select "Login with a web browser.
 Once you see the following screen, you can continue using git as usual, with GitHub as the remote.
 ![GitHub Auth Succes Screen](./images/auth_success.png)
 
+If you have not done so before, you will need to set your git config email and name, which will display on your commits. If you do not want to expose your email, GitHub provides you an anonymous email which you can view on your [email settings page](https://github.com/settings/emails).
+![GitHub Email Settings Page](./images/email.png)
+
+Set your global git config with:
+
+```bash
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
+
 ## Some quick git commands
 
 Clone a repo:
@@ -48,4 +58,3 @@ Push commit to remote:
 ```bash
 git push
 ```
-
