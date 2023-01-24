@@ -59,7 +59,7 @@ Push commit to remote:
 git push
 ```
 
-View remote URL
+View remote URL:
 
 ```bash
 git remote -v
