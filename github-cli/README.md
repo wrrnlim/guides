@@ -23,6 +23,8 @@ git config --global user.name "Your Name"
 
 ## Some quick git commands
 
+You can find a Git Cheatsheet by GitHub [here](https://education.github.com/git-cheat-sheet-education.pdf).
+
 Clone a repo:
 
 ``` bash
